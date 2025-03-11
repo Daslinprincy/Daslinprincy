@@ -3,7 +3,6 @@
 - 🌱 I’m currently pursing B.E ECE 
   
 
-<!---
-Daslinprincy/Daslinprincy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Competitive Programming Profiles 
+[codechef](https://www.codechef.com/users/daslinprincy)
+[Hackerrank](https://www.hackerrank.com/profile/daslinprincya)
