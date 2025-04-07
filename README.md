@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Daslinprincy
+- 👋 Hi, I’m @Daslinprincy Adaikalam
 - 👀 I’m interested in VLSI  
 - 🌱 I’m currently pursing B.E ECE 
   
