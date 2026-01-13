@@ -5,5 +5,6 @@
 
 ## Competitive Programming Profiles 
 [leetcode](https://leetcode.com/u/DaslinPrincyAdaikalam/)
+[hdl bits](https://hdlbits.01xz.net/wiki/Special:VlgStats/Me)
 [codechef](https://www.codechef.com/users/daslinprincy)
 [Hackerrank](https://www.hackerrank.com/profile/daslinprincya)
